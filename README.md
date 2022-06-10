@@ -1,10 +1,10 @@
 ```
        ,--.           
-   ,--/  /|    ,---,.    Uptime: 25 years
+   ,--/  /|    ,---,.    Uptime: 26 years
 ,---,': / '  ,'  .' |    Programming languages: TypeScript, Java
-:   : '/ / ,---.'   |    Editors: VSCode, IntelliJ IDEA
+:   : '/ / ,---.'   |    Editor: VSCode
 |   '   ,  |   |   .'    OS: macOS
-'   |  /   :   :  |-,    Shell: Zsh
+'   |  /   :   :  |-,    Shell: Oh My Zsh
 |   ;  ;   :   |  ;/| 
 :   '   \  |   :   .' 
 |   |    ' |   |  |-, 
