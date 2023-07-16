@@ -1,6 +1,6 @@
 ```
        ,--.           
-   ,--/  /|    ,---,.    Uptime: 26 years
+   ,--/  /|    ,---,.    Uptime: Since 1996
 ,---,': / '  ,'  .' |    Programming languages: TypeScript, Java
 :   : '/ / ,---.'   |    Editor: VSCode
 |   '   ,  |   |   .'    OS: macOS
