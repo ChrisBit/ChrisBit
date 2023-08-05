@@ -1,10 +1,10 @@
 ```
        ,--.           
    ,--/  /|    ,---,.    Uptime: Since 1996
-,---,': / '  ,'  .' |    Programming languages: TypeScript, Java
-:   : '/ / ,---.'   |    Editor: VSCode
+,---,': / '  ,'  .' |    Main programming languages: TypeScript, Java
+:   : '/ / ,---.'   |    Editor: JetBrains IntelliJ IDEA Ultimate
 |   '   ,  |   |   .'    OS: macOS
-'   |  /   :   :  |-,    Shell: Oh My Zsh
+'   |  /   :   :  |-,    Shell: iTerm2 + zsh + oh-my-zsh
 |   ;  ;   :   |  ;/| 
 :   '   \  |   :   .' 
 |   |    ' |   |  |-, 
